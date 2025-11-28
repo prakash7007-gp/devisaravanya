@@ -1,0 +1,385 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "treatments": "Treatments",
+    "services": "Services",
+    "contact": "Contact",
+    "branches": "Branches",
+    "bookAppointment": "Book Appointment",
+    "viewAllBranches": "View All Branches"
+  },
+  "topBar": {
+    "followUs": "Follow us:"
+  },
+  "hero": {
+    "title": "Natural Healing Through Ancient Wisdom",
+    "subtitle": "Experience Authentic Ayurvedic Care",
+    "description": "Transform your health with time-tested herbal treatments and Panchakarma therapies at DR. Devi Sharavanya Herbal Clinic",
+    "bookConsultation": "Book Consultation",
+    "callNow": "Call Now"
+  },
+  "welcome": {
+    "badge": "Welcome to Our Clinic",
+    "title": "DR. Devi Sharavanya",
+    "subtitle": "Herbal Clinic",
+    "description1": "Welcome to DR. Devi Sharavanya Herbal Clinic, where ancient wisdom meets modern healthcare. With over 28 years of excellence in Ayurvedic and herbal medicine, we are dedicated to providing authentic, natural healing solutions for your complete wellness.",
+    "description2": "Our clinic specializes in traditional herbal treatments, Panchakarma therapies, chronic disease management, and holistic wellness programs. Under the expert guidance of Dr. Devi Sharavanya, we have successfully treated thousands of patients with personalized care and natural remedies.",
+    "discoverMore": "Discover More About Us",
+    "founder": "Founder & Chief Physician",
+    "experience": "Years of Excellence",
+    "stats": {
+      "patients": "Patients Treated",
+      "doctors": "Success Rate",
+      "treatments": "Herbal Treatments"
+    }
+  },
+  "mission": {
+    "title": "Our Mission & Vision",
+    "missionTitle": "Our Mission",
+    "missionText": "To provide authentic Ayurvedic healthcare that promotes natural healing and holistic wellness through traditional wisdom and modern facilities.",
+    "visionTitle": "Our Vision",
+    "visionText": "To be the most trusted Ayurvedic hospital, making natural healing accessible to all and advancing Ayurvedic medicine globally."
+  },
+  "whyChoose": {
+    "title": "Why Choose Us",
+    "subtitle": "Experience the difference of authentic Ayurvedic care",
+    "expertDoctors": {
+      "title": "Expert Doctors",
+      "description": "BAMS & MD qualified Ayurvedic physicians with years of experience"
+    },
+    "authenticTreatments": {
+      "title": "Authentic Treatments",
+      "description": "Traditional therapies following classical Ayurvedic texts"
+    },
+    "modernFacilities": {
+      "title": "Modern Facilities",
+      "description": "State-of-the-art infrastructure combined with traditional care"
+    },
+    "personalizedCare": {
+      "title": "Personalized Care",
+      "description": "Customized treatment plans designed for your unique needs"
+    },
+    "naturalRemedies": {
+      "title": "Natural Remedies",
+      "description": "100% herbal medicines prepared using traditional methods"
+    },
+    "provenResults": {
+      "title": "Proven Results",
+      "description": "28+ years of success stories and satisfied patients"
+    }
+  },
+  "youtube": {
+    "title": "Watch Our Health Tips",
+    "subtitle": "Subscribe to our YouTube channel for daily wellness advice",
+    "visitChannel": "Visit Our YouTube Channel"
+  },
+  "appointment": {
+    "title": "Book Your Appointment",
+    "subtitle": "Take the first step towards natural healing",
+    "scheduleTitle": "Schedule Your Consultation",
+    "scheduleText": "Fill out the form and we'll contact you within 2 hours",
+    "fullName": "Full Name",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "service": "Treatment/Service Interested In",
+    "servicePlaceholder": "e.g., Panchakarma, Pain Management, PCOD Treatment",
+    "preferredDate": "Preferred Date",
+    "preferredTime": "Preferred Time",
+    "message": "Your Health Concerns",
+    "messagePlaceholder": "Please describe your health concerns in detail...",
+    "submit": "Book Appointment",
+    "submitting": "Booking...",
+    "success": "Appointment booked successfully! Our team will contact you within 2 hours.",
+    "required": "Required",
+    "agreement": "By booking, you agree to our terms and privacy policy"
+  },
+  "testimonials": {
+    "title": "What Our Patients Say",
+    "subtitle": "Real stories of healing and transformation"
+  },
+  "contact": {
+    "title": "Contact Information",
+    "address": "Clinic Address",
+    "phone": "Phone",
+    "email": "Email",
+    "workingHours": "Working Hours",
+    "hours": "Mon - Sat: 9AM - 7PM",
+    "sunday": "Sunday: Closed"
+  },
+  "branches": {
+    "title": "Our Branches",
+    "subtitle": "Find the nearest DR. Devi Sharavanya Herbal Clinic branch near you",
+    "badge": "5 Locations Across Kerala",
+    "intro": "Serving Communities Across Kerala",
+    "introText": "With five strategically located branches across Kerala, we bring authentic Ayurvedic healthcare closer to you. Each branch is equipped with modern facilities while maintaining the essence of traditional healing practices.",
+    "patients": "Patients",
+    "viewDetails": "View Details",
+    "bookAppointment": "Book Appointment",
+    "whyChooseTitle": "Why Choose Our Branches",
+    "whyChooseSubtitle": "Consistent quality care across all locations",
+    "cta": "Visit Your Nearest Branch Today",
+    "ctaSubtitle": "Experience the healing power of authentic Ayurveda at any of our locations",
+    "ctaButton": "Book Your Appointment Now"
+  },
+  "footer": {
+    "description": "Your trusted destination for authentic herbal treatments and holistic wellness care.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "workingHours": "Working Hours",
+    "copyright": "© 2024 DR. Devi Sharavanya Herbal Clinic. All rights reserved."
+  },
+  "about": {
+    "banner_title": "About Us",
+    "our_story": "Our Story",
+    "legacy_title": "A Legacy of Healing",
+    "story_p1": "Shanta Ayurveda Hospital was founded with a vision to provide authentic Ayurvedic healthcare that combines traditional wisdom with modern medical facilities. Over the past years, we have grown from a small clinic to a leading Ayurvedic hospital in Kerala.",
+    "story_p2": "Our founders, inspired by the ancient healing traditions of Ayurveda, established this institution to make authentic Panchakarma and other traditional treatments accessible to everyone seeking natural healing.",
+    "story_p3": "Today, we are proud to have treated over 15,000 patients from across India and around the world, helping them achieve optimal health through personalized Ayurvedic care.",
+    "mission_title": "Our Mission",
+    "mission_text": "To provide authentic, high-quality Ayurvedic healthcare that promotes natural healing and builds trust. We aim to promote wellness through Panchakarma and other traditional treatments, incorporating modern research results of Ayurveda masters.",
+    "vision_title": "Our Vision",
+    "vision_text": "To become the most trusted and sought-after Ayurvedic healthcare provider, recognized globally for our commitment to authentic treatments, patient care, and holistic wellness.",
+    "values_title": "Our Core Values",
+    "values_subtitle": "The principles that guide everything we do",
+    "value1_title": "Compassionate Care",
+    "value1_text": "We treat every patient with empathy and attention",
+    "value2_title": "Excellence",
+    "value2_text": "Committed to the highest standards of Ayurvedic practice",
+    "value3_title": "Patient-Centric",
+    "value3_text": "Your health and wellness are our top priorities",
+    "value4_title": "Holistic Approach",
+    "value4_text": "Treating the whole person—body, mind, and spirit"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Dr. Devi Saravanya",
+      "highlight": "herbs, formulations and preparations",
+      "subtitle": "Herbal Clinic",
+      "description": "Welcome to Dr. Devi Saravanya Herbal Clinic."
+    },
+    "slide2": {
+      "title": "Ayurveda medicine",
+      "highlight": "modern healthcare facilities",
+      "subtitle": "for complete wellness",
+      "description": " “Ayurveda teaches us to live in harmony with yourself, others, and the environment to achieve true well-being”"
+    },
+    "slide3": {
+      "title": "Siddha medicine",
+      "highlight": "Panchakarma therapies",
+      "subtitle": "for holistic healing",
+      "description": " “Siddha medicine is not just a way to treat illness—it is a sacred science passed down by our Siddhars, showing us how to live in alignment with nature and the universe.” "
+    },
+    "buttons": {
+      "book": "Book Consultation",
+      "treatments": "View Treatments"
+    }
+  },
+  "welcomeSection": {
+    "badge": "Welcome to Our Clinic",
+    "titleLine1": "DR. Devi Saravanya",
+    "titleLine2": "Herbal Clinic",
+    "p1": "Dr. Devi Saravanya (B.S.M.S.) is an expert with 15 years of experience in herbal medicine, who has treated over 15,000 patients and specializes in resolving women's health issues through her family's traditional Siddha and Ayurveda medical practice.",
+    "p2": "Her treatment focuses not just on the symptoms, but on identifying and completely eliminating the root cause of the disease. The herbal medicines she provides naturally and gradually enhance the body's immunity power.",
+    "discoverMore": "Discover More About Us",
+    "stats": {
+      "patients": "Patients Treated",
+      "doctors": "Success Rate",
+      "treatments": "Herbal Treatments"
+    }
+  },
+  "mission": {
+    "label": "Our Mission",
+    "titleLine1": "Committed to Your",
+    "titleLine2": "Wellness Journey",
+    "p1": "To provide authentic, high-quality herbal and Ayurvedic healthcare that promotes natural healing and holistic wellness. We strive to preserve traditional healing wisdom while incorporating modern medical knowledge for the benefit of our patients.",
+    "p2": "Our commitment extends beyond treatment — we aim to educate, empower, and support each patient on their journey to optimal health through natural, time-tested remedies and personalized care.",
+    "points": {
+      "authTitle": "Authentic Treatments",
+      "authText": "Traditional herbal remedies backed by ancient wisdom",
+      "personalTitle": "Personalized Care",
+      "personalText": "Customized treatment plans for every individual",
+      "holisticTitle": "Holistic Approach",
+      "holisticText": "Treating mind, body, and spirit as one"
+    }
+  },
+  "mission": {
+    "label": "Our Mission",
+    "title": "Committed to Your Wellness Journey",
+    "p1": "To provide authentic, high-quality herbal and Ayurvedic healthcare that promotes natural healing and holistic wellness.",
+    "p2": "Our commitment extends beyond treatment — we aim to educate, empower, and support each patient.",
+    "points": {
+      "authentic": {
+        "title": "Authentic Treatments",
+        "text": "Traditional herbal remedies backed by ancient wisdom"
+      },
+      "personal": {
+        "title": "Personalized Care",
+        "text": "Customized treatment plans for every individual"
+      },
+      "holistic": {
+        "title": "Holistic Approach",
+        "text": "Treating mind, body, and spirit as one"
+      }
+    }
+  },
+  "why": {
+    "label": "Why Choose Us",
+    "title": "The Dr. Devi Saravanya Difference",
+    "subtitle": "Discover what makes our herbal clinic the trusted choice for thousands of patients",
+    "reasons": {
+      "natural": {
+        "title": "100% Natural Herbs",
+        "desc": "Pure, organic herbs with no synthetic additives or chemicals"
+      },
+      "experts": {
+        "title": "Expert Practitioners",
+        "desc": "Highly qualified herbalists with decades of experience"
+      },
+      "results": {
+        "title": "Proven Results",
+        "desc": "15,000+ satisfied patients with successful treatments"
+      },
+      "holistic": {
+        "title": "Holistic Approach",
+        "desc": "Treating the whole person - body, mind, and spirit"
+      },
+      "safe": {
+        "title": "Safe & Effective",
+        "desc": "Time-tested remedies with minimal side effects"
+      },
+      "experience": {
+        "title": "28+ Years Experience",
+        "desc": "Trusted legacy of excellence in herbal healthcare"
+      }
+    }
+  },
+  "whyChoose": {
+    "sectionTag": "Why Choose Us",
+    "heading": "The Dr. Devi Saravanya Difference",
+    "subtitle": "Discover what makes our herbal clinic the trusted choice for thousands of patients",
+    "reasons": {
+      "naturalHerbs": {
+        "title": "100% Natural Herbs",
+        "description": "Pure, organic herbs with no synthetic additives or chemicals"
+      },
+      "expertPractitioners": {
+        "title": "Expert Practitioners",
+        "description": "Highly qualified herbalists with decades of experience"
+      },
+      "provenResults": {
+        "title": "Proven Results",
+        "description": "15,000+ satisfied patients with successful treatments"
+      },
+      "holisticApproach": {
+        "title": "Holistic Approach",
+        "description": "Treating the whole person - body, mind, and spirit"
+      },
+      "safeEffective": {
+        "title": "Safe & Effective",
+        "description": "Time-tested remedies with minimal side effects"
+      },
+      "experience": {
+        "title": "28+ Years Experience",
+        "description": "Trusted legacy of excellence in herbal healthcare"
+      }
+    }
+  },
+  "mission": {
+    "titleLine1": "Our Mission of Healing",
+    "titleLine2": "Rooted in Nature, Guided by Wisdom",
+    "description1": "We follow ancient herbal practices and provide natural treatments for various health conditions.",
+    "description2": "We aim to treat the root cause, support long-term healing, and promote overall well-being.",
+    "p1": "To provide authentic, high-quality herbal and Ayurvedic healthcare that promotes natural healing and holistic wellness.",
+    "p2": "Our commitment extends beyond treatment — we aim to educate, empower, and support each patient.",
+    "points": {
+      "authTitle": "Authentic Herbal Medicine",
+      "authText": "We use pure traditional herbal formulations prepared with utmost care.",
+      "personalTitle": "Personalized Care",
+      "personalText": "Every patient receives individual diagnosis and custom treatment plan.",
+      "holisticTitle": "Holistic Treatment",
+      "holisticText": "We heal the body, mind, and energy system through integrated therapies."
+    }
+  },
+  "youtube": {
+    "badge": "Watch Our Videos",
+    "title": "Visit Our YouTube Channel",
+    "description": "Learn more about herbal treatments, patient testimonials, and wellness tips from Dr. Devi Saravanya",
+    "subscribeBtn": "Subscribe to Our Channel",
+    "videos": {
+      "video1": "Benefits of Oil Bath for Deepavali!",
+      "video2": "Non-Surgical Sinus Cure — Dr. Devi Saravanya Explains!",
+      "video3": "Patient Success Stories"
+    }
+  },
+  "treatments": {
+    "tag": "Treatment Packages",
+    "heading": "Ayurvedic Treatment Programs",
+    "subheading": "Carefully designed treatment packages combining traditional therapies for optimal healing and wellness.",
+    "includes": "Package Includes:",
+    "bookBtn": "Book This Package"
+  },
+  "treatments": {
+    "knee": {
+      "name": "Knee Pain Treatment",
+      "description": "A complete herbal program for knee joint pain relief.",
+      "includes": [
+        "Herbal oil massage",
+        "Steam therapy",
+        "Pain relief herbal medicines"
+      ]
+    },
+    "asthma": {
+      "name": "Asthma Management",
+      "description": "Natural lung strengthening and respiratory detox therapy.",
+      "includes": [
+        "Breathing therapy",
+        "Herbal respiratory tonics",
+        "Steam inhalation"
+      ]
+    },
+    "pcod": {
+      "name": "PCOD/PCOS Treatment",
+      "description": "Hormonal balancing herbal therapy for women.",
+      "includes": [
+        "Ayurvedic hormonal balancing",
+        "Diet guidance",
+        "Detox therapy"
+      ]
+    },
+    "hairfall": {
+      "name": "Hair Fall Treatment",
+      "description": "Strengthen hair roots and stop hair loss naturally.",
+      "includes": [
+        "Scalp herbal oil therapy",
+        "Internal strengthening medicines",
+        "Steam treatment"
+      ]
+    },
+    "arthritis": {
+      "name": "Arthritis Care",
+      "description": "Herbal therapy to reduce joint inflammation and stiffness.",
+      "includes": [
+        "Anti-inflammatory massage",
+        "Herbal compress",
+        "Joint-strengthening tonics"
+      ]
+    },
+    "diabetes": {
+      "name": "Diabetes Management",
+      "description": "Control blood sugar using Ayurveda & herbal medicine.",
+      "includes": [
+        "Sugar control medicines",
+        "Diet plan",
+        "Lifestyle guidance"
+      ]
+    }
+  },
+  "branches": {
+    "chennai": "Chennai",
+    "madurai": "Madurai",
+    "tirunelveli": "Tirunelveli",
+    "trichy": "Trichy",
+    "salem": "Salem"
+  }
+}
